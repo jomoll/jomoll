@@ -16,4 +16,8 @@ I am a PhD student in Computer Science at the Technical University of Munich and
 
 - **Lightweight LLMs for the Structuring of Radiology Reports**  
   Development and evaluation of lightweight, task-specific models for automated structuring of radiology reports.
+  
+  [🌐 Structuring Radiology Reports: Challenging LLMs with Lightweight Models](https://stanford-aimi.github.io/structuring.html)
+  
+  [🌐 Automated Structured Report Generation](https://stanford-aimi.github.io/srrg.html)
 - **Reasoning in Vision-Language models**  
