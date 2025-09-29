@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Johannes Moll
+# 👋 Hi! I'm [Johannes Moll](https://jomoll.github.io)
 
 I am a PhD student in Computer Science at the Technical University of Munich and the German Heart Center Munich, currently also a visiting student researcher at the Stanford Center for Artificial Intelligence in Medicine & Imaging (AIMI). I specialize in vision-language models for radiology.
 
