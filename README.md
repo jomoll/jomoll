@@ -20,4 +20,7 @@ I am a PhD student in Computer Science at the Technical University of Munich and
   [🌐 Structuring Radiology Reports: Challenging LLMs with Lightweight Models](https://stanford-aimi.github.io/structuring.html)
   
   [🌐 Automated Structured Report Generation](https://stanford-aimi.github.io/srrg.html)
-- **Reasoning in Vision-Language models**  
+- **Reasoning in Medical Vision-Language Models**
+  
+  [🌐 Evaluating Reasoning Faithfulness in Medical Vision-Language Models using Multimodal Perturbations](https://jomoll.github.io/faithfulness/)
+  
