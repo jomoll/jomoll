@@ -9,15 +9,16 @@ I am a PhD student in Computer Science at the Technical University of Munich and
 - **Open Science:** Promoting reproducibility, open data, and collaborative software development across institutions.
 
 ---
-
 ## Current Projects
 - **🩺 Onco-Agent — Agentic Clinical Reasoning over Longitudinal Myeloma Records** *(new)*
   A multi-turn retrieval-augmented agent that answers structured clinical questions from patient records (discharge letters, radiology, pathology, lab values). The agent plans which information to retrieve, applies domain-specific clinical skills (evidence ranking, scoring systems like ISS/IPSS-R), and produces structured answers with inline citations — evaluated retrospectively against expert consensus.
-
+  
+  [🌐 Project page: jomoll.github.io/onco-agent](https://jomoll.github.io/onco-agent/)
+  
   [📄 Preprint: Agentic clinical reasoning over longitudinal myeloma records](https://arxiv.org/pdf/2604.24473)
-
+  
   [💻 GitHub: jomoll/onco-agent](https://github.com/jomoll/onco-agent)
-
+  
 ---
 
 ## Previous Projects
