@@ -10,6 +10,16 @@ I am a PhD student in Computer Science at the Technical University of Munich and
 
 ---
 ## Current Projects
+
+- **🤖 GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents** *(new)*
+  A self-improvement method for LLM agents acting in structured environments like electronic health records. GRASP turns agent failures into validated edits to a bounded library of behavioral skills, where every candidate edit must pass a regression check on previously correct behavior before it is admitted. Evaluated on FHIR-based clinical benchmarks and non-clinical agent environments, with frozen skill libraries that transfer across models. Joint work with Microsoft Healthcare & Life Sciences.
+  
+  [🌐 Project page: jomoll.github.io/grasp](https://jomoll.github.io/grasp/)
+  
+  [📄 Preprint: GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents](https://arxiv.org/abs/2605.29668)
+  
+  [💻 GitHub: jomoll/GRASP](https://github.com/jomoll/GRASP)
+---
 - **🩺 Onco-Agent — Agentic Clinical Reasoning over Longitudinal Myeloma Records** *(new)*
   A multi-turn retrieval-augmented agent that answers structured clinical questions from patient records (discharge letters, radiology, pathology, lab values). The agent plans which information to retrieve, applies domain-specific clinical skills (evidence ranking, scoring systems like ISS/IPSS-R), and produces structured answers with inline citations — evaluated retrospectively against expert consensus.
   
