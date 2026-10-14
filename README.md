@@ -20,12 +20,12 @@ I am a PhD student in Computer Science at the Technical University of Munich and
   
   [💻 GitHub: jomoll/GRASP](https://github.com/jomoll/GRASP)
 ---
-- **🩺 Onco-Agent — Agentic Clinical Reasoning over Longitudinal Myeloma Records** *(new)*
+- **🩺 Onco-Agent — Agentic Clinical Reasoning over Longitudinal Myeloma Records** *(Published in npj Precision Oncology)*
   A multi-turn retrieval-augmented agent that answers structured clinical questions from patient records (discharge letters, radiology, pathology, lab values). The agent plans which information to retrieve, applies domain-specific clinical skills (evidence ranking, scoring systems like ISS/IPSS-R), and produces structured answers with inline citations — evaluated retrospectively against expert consensus.
   
   [🌐 Project page: jomoll.github.io/onco-agent](https://jomoll.github.io/onco-agent/)
   
-  [📄 Preprint: Agentic clinical reasoning over longitudinal myeloma records](https://arxiv.org/pdf/2604.24473)
+  [📄 Paper: Skill-guided agentic reasoning enables longitudinal synthesis of myeloma records at expert-level concordance](https://www.nature.com/articles/s41698-026-01733-2?status=info&saved-doi=10.1038/s41698-026-01733-2#Abs1)
   
   [💻 GitHub: jomoll/onco-agent](https://github.com/jomoll/onco-agent)
   
